@@ -1,11 +1,4 @@
-dwarves =[
-  Doc
-  Dopey
-  Bashful
-  Grumpy
-  Sneezy
-  Sleepy
-  Happy
+dwarves =["Doc","Dopey","Bashful","Grumpy" ,"Sneezy","Sleepy","Happy"]
 ]
 
 # Roll call for the next mining shift!
